@@ -668,11 +668,6 @@
               <FileType>1</FileType>
               <FilePath>..\app\app_event_por.c</FilePath>
             </File>
-            <File>
-              <FileName>app_task_dongle.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\app\app_task_dongle.c</FilePath>
-            </File>
           </Files>
         </Group>
       </Groups>
